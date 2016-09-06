@@ -1,0 +1,34 @@
+<contacts>
+    <contact
+        first_name="User1"
+        last_name="User1 soname"
+        phone="436575712323" />
+    <contact
+        first_name="user2"
+        last_name="user2"
+        phone="564512`3`" />
+    <contact
+        first_name="user3"
+        last_name="user3"
+        phone="65456671321879" />
+    <contact
+        first_name="user4"
+        last_name="user4"
+        phone="23457313587" />
+    <contact
+        first_name="user5"
+        last_name="user5"
+        phone="63451323" />
+    <contact
+        first_name="user6"
+        last_name="user6"
+        phone="345514124" />
+    <contact
+        first_name="user7"
+        last_name="user7"
+        phone="345514124" />
+    <contact
+        first_name="Batman"
+        last_name="The dark knight"
+        phone="777" />
+</contacts>
